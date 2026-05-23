@@ -1,0 +1,1 @@
+SELECT * FROM `curious-pointer-472007-v2.idd_sample.dim_product_hot` LIMIT 1000
